@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Estructuracion_Logica" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Estructuracion_Logica</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000014d000000020000000000000000000000000200000064ffffffff0000008100000003000000020000014d0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Estructuracion_Logica</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f2000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f20000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000016f000000040101000100000000000000000000000064ffffffff000000810000000000000004000000510000000100000000000000290000000100000000000000840000000100000000000000710000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000064000000010001000100000000000000000000000064ffffffff000000810000000000000001000000640000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Check Syntax</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f2000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f20000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Check Syntax</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/TB_Ejerc3_10 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_10.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_11 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_11.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_12 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_12.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_13 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_13.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_14 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_14.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_15 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_15.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_16 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_16.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_17 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_17.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_18 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_18.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_19 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_19.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_20 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_20.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_3 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_3.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_4 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_4.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_5 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_5.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_6 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_6.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_7 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_7.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_8 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_8.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_9 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_9.vhd</ClosedNode>
+         <ClosedNode>/TB_FFJK - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_FFJK.vhd</ClosedNode>
+         <ClosedNode>/TB_FFT - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_FFT.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>TB_Ejerc3_11 - behavior (/home/ise/Desktop/Proyectos/Estructuracion_Logica/TB_Ejerc3_11.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000162000000020000000000000000000000000200000064ffffffff000000810000000300000002000001620000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>TB_Ejerc3_11 - behavior (/home/ise/Desktop/Proyectos/Estructuracion_Logica/TB_Ejerc3_11.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f2000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f20000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f2000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f20000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000014c0000011d01000000060100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="PostTransSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/TB_Ejerc3_3 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_3.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_4 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_4.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_5 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_5.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_6 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_6.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_7 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_7.vhd</ClosedNode>
+         <ClosedNode>/TB_Ejerc3_8 - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_Ejerc3_8.vhd</ClosedNode>
+         <ClosedNode>/TB_FFJK - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_FFJK.vhd</ClosedNode>
+         <ClosedNode>/TB_FFT - behavior |home|ise|Desktop|Proyectos|Estructuracion_Logica|TB_FFT.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Unassigned User Library Modules</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000152000000020000000000000000000000000200000064ffffffff000000810000000300000002000001520000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Unassigned User Library Modules</CurrentItem>
+   </ItemView>
+   <ItemView engineview="PostTransSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f2000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f20000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>

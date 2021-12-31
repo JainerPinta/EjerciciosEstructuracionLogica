@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Desktop/Proyectos/Estructuracion_Logica/TB_Ejerc3_11_isim_beh.exe" -prj "/home/ise/Desktop/Proyectos/Estructuracion_Logica/TB_Ejerc3_11_beh.prj" "work.TB_Ejerc3_11" 
